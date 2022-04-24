@@ -1,8 +1,6 @@
 ## About Me
 
-Red-Teamer, Network/Security Software Dev
-
-I'm a security-obsessed developer who enjoys working on private osint / recon applications.
+An engineer that enjoys **red-teaming** and building security/networking related applications
 
 **Languages**
 
@@ -13,10 +11,11 @@ I'm a security-obsessed developer who enjoys working on private osint / recon ap
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frameworks**
+**Technologies**
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 **SQLAlchemy**
 **, and more ...**
 
@@ -25,7 +24,6 @@ I'm a security-obsessed developer who enjoys working on private osint / recon ap
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-<br/>
 
 ## Current Goals and Tasks (2022)
 
@@ -39,8 +37,6 @@ I'm a security-obsessed developer who enjoys working on private osint / recon ap
 
 **Currently publicly working on**
 - BeeLurer Repo
-
-<br/>
 
 #
 
