@@ -1,6 +1,6 @@
 ## About Me
 
-An engineer that enjoys **red-teaming** and building security/networking related applications
+I'm an engineer that enjoys red-teaming and building security/network applications
 
 **Languages**
 
