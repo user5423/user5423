@@ -40,10 +40,6 @@ I'm a security-obsessed developer who enjoys working on private osint / recon ap
 **Currently publicly working on**
 - BeeLurer Repo
 
-**Want To learn/work with**:
-- OpenMP
-- Nvidia Numba
-
 <br/>
 
 #
