@@ -42,7 +42,7 @@ I'm an engineer that enjoys red-teaming and building security/network applicatio
 
 **Currently learning**:
 - Cython and Pyrex
-- Haskell Programming
+- Systems Performance Engineering
 
 **Currently publicly working on**
 - BeeLurer Repo
