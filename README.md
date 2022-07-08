@@ -37,8 +37,8 @@ I'm an engineer that enjoys red-teaming and building security/network applicatio
 ## Current Goals and Tasks (2022)
 
 **Currently Reading**:
-- [Linux Kernel Development](https://www.pearson.com/uk/educators/higher-education-educators/program/Love-Linux-Kernel-Development-3rd-Edition/PGM895121.html?tab=overview)
 - [CPython Internals](https://realpython.com/products/cpython-internals-book/)
+- [Linux Kernel Development](https://www.pearson.com/uk/educators/higher-education-educators/program/Love-Linux-Kernel-Development-3rd-Edition/PGM895121.html?tab=overview)
 - [Systems Performance: Enterprise and Cloud](https://www.oreilly.com/library/view/systems-performance-2nd/9780136821694/)
 
 **Currently learning**:
